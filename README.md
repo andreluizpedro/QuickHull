@@ -3,7 +3,7 @@ A small and brief implementation of the QuickHull algorithm for determining the 
   
 Quick Hull is an algorithm with average time complexity of O(nlogn) but in cases where the points are heavily on one side of a split, the algorithm can have a worse case complexity of O(n^2)
 
-## Credits
+## Resources/Credits 
 In no particular order:  
 - http://stackoverflow.com/questions/1560492/how-to-tell-whether-a-point-is-to-the-right-or-left-side-of-a-line
 - https://en.wikipedia.org/wiki/Distance_from_a_point_to_a_line#Line_defined_by_two_points
